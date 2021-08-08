@@ -1,4 +1,4 @@
-# kodluyoruzilkrepo
+# Kodluyoruz İlk Repo
 
 ---
 
